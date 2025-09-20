@@ -17,4 +17,15 @@ I have great interest in understanding real essence of mathematics. I also have 
 > ### **`Hobbies`** 
 > - Qwerty
 > - Qwertz
-> - Azerty
+> - Azerty  
+
+
+
+---
+|***Task***|***XP*** |***Is Complete***|
+|:---:|:---:|:-----------:|
+|Read a Novel|2XP|[x]|
+|Write A Novel|3XP|[ ]|
+|Watch TV|2XP|[ ]|
+|Level Up|5XP|[x]|
+
